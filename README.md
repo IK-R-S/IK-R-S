@@ -1,10 +1,11 @@
-- 👋 Meu nome é Kauan, mas pode me chamar de KRS
-- 😃 Sou programador e estudante assíduo de novas tecnologias ...
+- 👋 Salve visitante! K.R.S aqui :)
+- 🤔 Se me conhece bem já sabe meu nome e muito sobre mim
+- 😃 Sou programador e estudante assíduo de novas tecnologias
 - 👨‍💻 Hacker ético sempre que possível
 - 🕵️‍♂️ OSINT
 - 🎯 Python, C e JS ...
-- 🌐 Fundador da comunidade de segurança da informação H.G.B...
-- 🤩 Apaixonado por tecnologias na área de inovação...
+- 🌐 Fundador da comunidade de segurança da informação H.G.B
+- 🤩 Apaixonado por tecnologias na área de inovação
 
 <!---
 IK-R-S/IK-R-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
