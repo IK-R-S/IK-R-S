@@ -6,6 +6,8 @@
 - 🎯 Python, C e JS ...
 - 🌐 Fundador da comunidade de segurança da informação H.G.B
 - 🤩 Apaixonado por tecnologias na área de inovação
+- 🧑‍🔧 Trabalhando no EasyCep
+- 🇧🇷 Brasil
 
 <!---
 IK-R-S/IK-R-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
