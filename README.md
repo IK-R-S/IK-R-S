@@ -1,7 +1,6 @@
 - 👋 Salve visitante! K.R.S aqui :)
 - 🤔 Se me conhece bem já sabe meu nome e muito sobre mim
 - 😃 Sou programador e estudante assíduo de novas tecnologias
-- 👨‍💻 Hacker ético sempre que possível
 - 🕵️‍♂️ OSINT
 - 🎯 Python, C e JS ...
 - 🌐 Fundador da comunidade de segurança da informação H.G.B
