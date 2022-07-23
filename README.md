@@ -2,10 +2,9 @@
 - 🤔 Se me conhece bem já sabe meu nome e muito sobre mim
 - 😃 Sou programador e estudante assíduo de novas tecnologias
 - 🕵️‍♂️ OSINT
-- 🎯 Python, C e JS ...
+- 🎯 Python, JS, HTML, CSS, React & React Native entre muitas outras tecnologias!
 - 🌐 Fundador da comunidade de segurança da informação H.G.B
 - 🤩 Apaixonado por tecnologias na área de inovação
-- 🧑‍🔧 Trabalhando no EasyCep
 - 🇧🇷 Brasil
 
 <!---
