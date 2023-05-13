@@ -11,7 +11,7 @@
 - Hacker ético e detetive virtual - (OSINT)
 
 ## Skills 😎
-> Conjunto de habilidades = { Habilidade ∈ Conjunto de habilidades | Python3; React+RN; Electron; Nodejs; JS HTML CSS; Linux Bashcript }
+> Conjunto de habilidades = { Skill ∈ Conjunto de habilidades | Python3; React+RN; Electron; Nodejs; JS+HTML+CSS; Linux+Bashcript }
 
 
 <div style="display: inline_block"><br>
