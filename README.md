@@ -1,16 +1,18 @@
-# Kauan Sena
 <div>
   <a href="https://www.instagram.com/__kauan_sena__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/!K.R.S#8804" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561199169310376" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+<p>⠀⠀⠀</p>
 
+# Kauan Sena
 - Programador Full Stack - (Python :blue_heart: React) 
 - Estudante de Economia - (UFPA 2023) 
 - Hacker ético e detetive virtual - (OSINT)
 
 ## Skills 😎
-> Python3; React+RN; Electron; Nodejs; JS HTML CSS; Linux Bashcript
+> Conjunto de habilidades = { Habilidade ∈ Conjunto de habilidades | Python3; React+RN; Electron; Nodejs; JS HTML CSS; Linux Bashcript }
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
