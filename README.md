@@ -29,3 +29,4 @@
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IK-R-S&layout=donut&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+🇧🇷
