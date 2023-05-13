@@ -2,7 +2,7 @@
 
 - Programador Full Stack (Python :blue_heart: React) 
 - Estudante de Economia (UFPA 2023) 
-- Hacker ético e adorador de investigação digital - (OSINT)
+- Hacker ético e detetive virtual - (OSINT)
 
 ## Skills 😎
 
