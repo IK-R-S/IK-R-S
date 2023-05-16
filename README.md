@@ -23,7 +23,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <p>⠀⠀⠀</p>
   
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IK-R-S&layout=donut&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
