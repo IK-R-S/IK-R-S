@@ -28,3 +28,7 @@
 </div>
 
 `🇧🇷 Deployed in Brazil`
+
+<a href="https://github.com/ik-r-s">
+  <img src="https://komarev.com/ghpvc/?username=ik-r-s&color=blue&style=flat)" />
+</a>
