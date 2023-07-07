@@ -6,10 +6,10 @@
 <p>⠀⠀⠀</p>
 
 # Kauan Sena
-- Programador Full Stack - (Python :blue_heart: React) 
-- Estudante de Economia - (UFPA 2023) 
-- Trader (Não vendo curso)
-- Hacker ético e detetive virtual - (OSINT)
+- Dev Full Stack - (Python & React) 💙
+- Estudante de Economia - (UFPA 2023) 🧑🏻‍🎓
+- Trader (Não vendo curso) 📈
+- Hacker ético e detetive virtual - (OSINT) 🧑🏻‍💻
 
 ## Skills 😎
 > Conjunto Habilidades = { Skill ∈ Conjunto Habilidades | Python3;  Nodejs; Electron; React+RN; JS+HTML+CSS; Bash+Batch }
