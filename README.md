@@ -8,6 +8,7 @@
 # Kauan Sena
 - Programador Full Stack - (Python :blue_heart: React) 
 - Estudante de Economia - (UFPA 2023) 
+- Trader (Não vendo curso)
 - Hacker ético e detetive virtual - (OSINT)
 
 ## Skills 😎
