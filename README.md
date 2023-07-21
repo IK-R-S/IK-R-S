@@ -29,8 +29,15 @@
 </div>
 
 ## Projetos em destaque ⭐
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Eco-Tokens&theme=transparent)](https://github.com/IK-R-S/Eco-Tokens)
+
+<p>⠀⠀⠀</p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=EasyCep&theme=transparent)](https://github.com/IK-R-S/EasyCep)
+
+<p>⠀⠀⠀</p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=linker&theme=transparent)](https://github.com/IK-R-S/Linker)
 
 
