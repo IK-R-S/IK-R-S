@@ -30,7 +30,8 @@
 
 ## Projeto em destaque ⭐
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=linker&theme=transparent)](https://github.com/IK-R-S/eco-tokens)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=linker&theme=transparent)](https://github.com/IK-R-S/Linker)
+<p>⠀⠀⠀</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=eco-tokens&theme=transparent)](https://github.com/IK-R-S/Linker)
 
 `🇧🇷 Deployed in Brazil`
 
