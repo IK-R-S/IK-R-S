@@ -28,7 +28,7 @@
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IK-R-S&layout=donut&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/IK-R-S/)
 </div>
 
-## Projeto em destaque ⭐
+## Projetos em destaque ⭐
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=linker&theme=transparent)](https://github.com/IK-R-S/Linker)
 
 <p>⠀⠀⠀</p>
