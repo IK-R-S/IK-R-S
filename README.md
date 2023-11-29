@@ -7,9 +7,19 @@
 
 # Kauan Sena
 - Dev Full Stack - (Python & React) 💙
-- Estudante de Economia - (UFPA 2023) 🧑🏻‍🎓
-- Trader (Não vendo curso) 📈
+- Estudante de Economia - (UFPA 2023) 📈
 - Hacker ético e detetive virtual - (OSINT) 🧑🏻‍💻
+
+## Projetos em destaque ⭐
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Eco-Tokens&theme=transparent)](https://github.com/IK-R-S/Eco-Tokens)
+
+<p>⠀⠀⠀</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=EasyCep&theme=transparent)](https://github.com/IK-R-S/EasyCep)
+
+
+
 
 ## Skills 😎
 > Conjunto Habilidades = { Skill ∈ Conjunto Habilidades | Python3;  Nodejs; Electron; React+RN; JS+HTML+CSS; Bash+Batch }
@@ -27,15 +37,6 @@
   
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IK-R-S&layout=donut&theme=transparent&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/IK-R-S/)
 </div>
-
-## Projetos em destaque ⭐
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Eco-Tokens&theme=transparent)](https://github.com/IK-R-S/Eco-Tokens)
-
-<p>⠀⠀⠀</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=EasyCep&theme=transparent)](https://github.com/IK-R-S/EasyCep)
-
 
 
 `🇧🇷 Deployed in Brazil`
