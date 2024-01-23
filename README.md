@@ -20,7 +20,7 @@
 
 <p>⠀⠀⠀</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=EasyCep&theme=transparent)](https://github.com/IK-R-S/Joe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Joe&theme=transparent)](https://github.com/IK-R-S/Joe)
 
 
 ## Skills 😎
