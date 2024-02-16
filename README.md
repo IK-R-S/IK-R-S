@@ -6,9 +6,9 @@
 <p>⠀⠀⠀</p>
 
 # Kauan Sena
-- Dev Full Stack - (Python & React) 💙
-- Estudante de Economia - (UFPA 2023) 📈
-- Hacker ético e detetive virtual - (OSINT) 🧑🏻‍💻
+- Dev Full Stack 💙
+- Economia e mercado financeiro  📈
+- Cybersecurity 🧑🏻‍💻
 
 ## Projetos em destaque ⭐
 
