@@ -12,7 +12,7 @@
 
 ## Projetos em destaque ⭐
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Py-pass&theme=transparent)](https://github.com/IK-R-S/Py-pass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=IPassword&theme=transparent)](https://github.com/IK-R-S/IPassword)
 
 <p>⠀⠀⠀</p>
 
