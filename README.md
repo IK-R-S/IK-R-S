@@ -10,13 +10,9 @@
 - Economia e mercado financeiro  📈
 - Cybersecurity 🧑🏻‍💻
 
-## Projetos em destaque ⭐
+## Projeto em destaque ⭐
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=IPassword&theme=transparent)](https://github.com/IK-R-S/IPassword)
-
-<p>⠀⠀⠀</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=EasyCep&theme=transparent)](https://github.com/IK-R-S/EasyCep)
 
 
 ## Skills 😎
