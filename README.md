@@ -6,7 +6,7 @@
 <p>⠀⠀⠀</p>
 
 # Kauan Sena
-- Dev Full Stack 💙
+- Dev Full Stack 😎
 - Economia e mercado financeiro  📈
 - Cybersecurity 🧑🏻‍💻
 
