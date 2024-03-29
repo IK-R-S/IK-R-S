@@ -10,10 +10,10 @@
 - Economia e mercado financeiro  📈
 - Cybersecurity 🧑🏻‍💻
 
-## Projeto em destaque ⭐
+## Projetos em destaque ⭐
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=IPassword&theme=transparent)](https://github.com/IK-R-S/IPassword)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ik-r-s&repo=Econnews&theme=transparent)](https://github.com/IK-R-S/Econnews)
 
 ## Skills 🎯
 > Conjunto Habilidades = { Skill ∈ Conjunto Habilidades | Python3;  Nodejs; Electron; React+RN; JS+HTML+CSS; Bash+Batch }
